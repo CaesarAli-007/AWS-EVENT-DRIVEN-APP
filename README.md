@@ -53,5 +53,6 @@ aws sns publish --topic-arn <SNS_TOPIC_ARN> --message "Hello from SNS!"
 ```
 terraform destroy -auto-approve
 ```
+
 # Contributors
-Ali H. Mughal (AWS. Solutions Architect)
+Ali H. Mughal *(AWS. Solutions Architect)*
